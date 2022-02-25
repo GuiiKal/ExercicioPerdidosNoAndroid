@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">ExercicioPerdidosNoAndroid</string>
+    <string name="text_value1">Perdidos no Android: A Fronteira Final</string>
+    <string name="text_value2">Data: </string>
+    <string name="text_value4">20/05/2021 </string>
+    <string name="text_value3">clique na imagem para ver a sinopse!</string>
+    <string-array name="spinner_value">
+        <item>Cinemark</item>
+        <item>CineSenai</item>
+        <item>Cinépolis</item>
+        <item>Moviecom Cinemas</item>
+    </string-array>
+</resources>
